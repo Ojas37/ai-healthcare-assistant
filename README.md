@@ -156,8 +156,8 @@ The project uses:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/someshvermagithub/AI-Healthcare-Assistant.git
-cd AI_Healthcare_Assistant
+git clone https://github.com/Ojas37/ai-healthcare-assistant.git
+cd ai-healthcare-assistant
 ```
 
 ---
@@ -407,9 +407,11 @@ MIT License
 
 # 👨‍💻 Author
 
-### Developed by Somesh Verma
+### Developed by Ojas Neve
 
-
+- **GitHub:** [@Ojas37](https://github.com/Ojas37)
+- **Repository:** [ai-healthcare-assistant](https://github.com/Ojas37/ai-healthcare-assistant)
+- **Email:** ojassachinneve@gmail.com
 
 ---
 
@@ -425,6 +427,8 @@ If you like this project:
 
 # 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/someshverma-/
+- **Email:** ojassachinneve@gmail.com
+- **GitHub:** https://github.com/Ojas37
+
 
 

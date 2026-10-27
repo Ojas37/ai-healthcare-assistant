@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated reports (keep folder structure)
+reports/generated_reports/*.pdf
+!reports/generated_reports/.gitkeep
+
+# Database
+*.sqlite3
+healthcare.db
